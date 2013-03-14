@@ -14,7 +14,7 @@
 * [SQL查询语法与JDBC的使用](https://github.com/muyannian/higo/wiki/jdbc)
 * [海狗快在哪里](https://github.com/muyannian/higo/wiki/whyfast)
 * [海狗与其他分布式系统的异同](https://github.com/muyannian/higo/wiki/different)
-* [快速Count(distinct)的实现](https://github.com/muyannian/higo/wiki/distinct)
+* [任意列快速Count(distinct)的实现](https://github.com/muyannian/higo/wiki/distinct)
 <br>
 <h1> 改动日志</h1>
 * [2012改动列表](https://github.com/muyannian/higo/wiki/Lucene)
