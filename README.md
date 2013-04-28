@@ -18,8 +18,8 @@
 * [任意列快速Count(distinct)的实现](https://github.com/muyannian/higo/wiki/distinct)
 <br>
 <h1> 改动日志</h1>
-* [2012改动列表](https://github.com/muyannian/higo/wiki/Lucene)
-* [2013改动列表](https://github.com/muyannian/higo/wiki/201302log)
+* [海狗1改动](https://github.com/muyannian/higo/wiki/Lucene)
+* [海狗2改动](https://github.com/muyannian/higo/wiki/201302log)
 <h1> 其他</h1>
 * [Committers](https://github.com/muyannian/higo/wiki/coder)
 * [TODO](https://github.com/muyannian/higo/wiki/todo)
