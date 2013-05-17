@@ -7,6 +7,7 @@
 <h1>  资源列表</h1>
 * [项目介绍](https://github.com/muyannian/higo/wiki/introduce)
 * 海狗ppt <a href="https://github.com/muyannian/higo/blob/master/doc/higo.pptx?raw=true" target="_blank"><strong>pptx1下载<strong></a> <a href="https://github.com/muyannian/higo/blob/master/doc/higo_forcoder.pptx?raw=true" target="_blank"><strong>pptx2下载<strong></a>
+* [性能测试](https://github.com/muyannian/higo/blob/master/doc/test.docx?raw=true)
 * [海狗架构](https://github.com/muyannian/higo/wiki/topology)
 * [蓝鲸介绍](https://github.com/muyannian/higo/wiki/bluewhale)
 * [集群部署](https://github.com/muyannian/higo/wiki/Install)
