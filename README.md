@@ -12,6 +12,7 @@
 * [蓝鲸介绍](https://github.com/muyannian/higo/wiki/bluewhale)
 * [集群部署](https://github.com/muyannian/higo/wiki/Install)
 * [海狗的启动与停止](https://github.com/muyannian/higo/wiki/table)
+* [典型场景配置与部署示例](https://github.com/muyannian/higo/blob/master/doc/install.docx?raw=true)
 * [SQL查询语法与JDBC的使用](https://github.com/muyannian/higo/wiki/jdbc)
 * [任意列快速Count(distinct)的实现](https://github.com/muyannian/higo/wiki/distinct)
 <br>
@@ -19,4 +20,5 @@
 * [海狗1改动日志](https://github.com/muyannian/higo/wiki/Lucene)
 * [海狗2改动日志](https://github.com/muyannian/higo/wiki/201302log)
 <h1> 其他</h1>
+* [FAQ](https://github.com/muyannian/higo/wiki/faq)
 * [将要做的以及BUG列表](https://github.com/muyannian/higo/issues?direction=desc&page=1&sort=updated&state=open)
