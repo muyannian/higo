@@ -13,7 +13,7 @@
 * [集群部署](https://github.com/muyannian/higo/wiki/Install)
 * [海狗的启动与停止](https://github.com/muyannian/higo/wiki/table)
 * [典型场景配置与部署示例](https://github.com/muyannian/higo/blob/master/doc/install.docx?raw=true)
-* [SQL查询语法与JDBC的使用](https://github.com/muyannian/higo/wiki/jdbc)
+* [SQL查询语法与JDBC的使用](https://github.com/muyannian/higo/blob/master/doc/hsql.docx?raw=true)
 * [任意列快速Count(distinct)的实现](https://github.com/muyannian/higo/wiki/distinct)
 <br>
 <h1> 改动日志</h1>
